@@ -27,7 +27,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)  ![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)  
+![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mechdoudmohammed&show_icons=true&theme=tokyonight)  ![GitHub Streak](https://streak-stats.demolab.com?user=mechdoudmohammed&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mechdoudmohammed&layout=compact&theme=tokyonight)  
 
 ---
 
